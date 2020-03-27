@@ -6,7 +6,7 @@
 
     The completed application will look like this:
 
-    ![Completed App](C:\Users\Ai\Desktop\Tutorials\11_CompletedApp.png)
+    ![Completed App](11_CompletedApp.png)
 
 1. ## Preparation
 
@@ -71,7 +71,7 @@
 
 - Add a *Click* event handler for the button *Scan Devices* as illustrated below.
 
-  ![Add event handler](C:\Users\Ai\Desktop\Tutorials\10_AddEventHandler.png)
+  ![Add event handler](10_AddEventHandler.png)
 
 - Then add *BtnClick_ScanDevices* function to your *MainWindow* class as below.
 
